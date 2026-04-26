@@ -1,0 +1,94 @@
+JENKINS
+=======
+30/03/2026
+----------
+Lab-1:
+======
+Install Jenkins on EC2 instance.
+
+31/03/2026
+----------
+Lab-2:
+======
+Create a free-style project
+Create a shell script file
+Build that shell script file using Jenkins.
+
+Lab-3:
+======
+Create a free-style project.
+Use parameterised job concepts (string)
+
+Lab-4:
+======
+Create a free-style project.
+Use parameterised job concepts (choice)
+
+Lab-5:
+======
+Create a free style project.
+Do one failure scenario when job will successed but it is not correct way.
+
+Lab-6:
+======
+Create a free style project.
+Use throttled build scenario or functionality to build one job.
+
+01/04/2026
+----------
+Lab-7:
+======
+Create a free style project.
+Integrate a public git-hub repo and build it.
+
+Lab-8:
+======
+Create a free style project.
+Integrate a public GitHub repo with maven and build it.
+
+Lab-9:
+======
+Create a free style project.
+Use build-periodically trigger concept
+Build a job
+
+Lab-10:
+======
+Create a free style project.
+Use Poll scm trigger concept
+Build a job
+
+Lab-11:
+======
+Create a free style project.
+Use webhook concept.
+Build a job
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
